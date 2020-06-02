@@ -34,6 +34,6 @@ def return_string_array(array)
     new_array = []
     new_array << array[counter]
     counter += 1 
-    return new_array
+    return new_array.to_s 
   end 
 end
