@@ -33,5 +33,5 @@ def return_string_array(array)
   while counter < array.size do 
     new_array = array[counter.to_s]
     new_array 
-  
+  end 
 end
