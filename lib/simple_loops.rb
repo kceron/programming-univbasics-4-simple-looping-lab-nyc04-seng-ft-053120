@@ -21,7 +21,7 @@ end
 def output_array(array)
   counter = 0 
   
-  while 
+  while counter < array.size 
   
 end
 
