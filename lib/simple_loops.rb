@@ -13,6 +13,7 @@ def loop_message_n_times(message, integer)
   counter = 0 
   while counter != integer 
     puts message 
+    counter += 1 
   end 
 end
 
